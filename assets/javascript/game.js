@@ -1,21 +1,5 @@
-<!DOCTYPE html>
-<html lang = "en-us">
 
-<head>
-	<meta charset="utf-8">
-	<title>Psychic Game Using JavaScript</title>
-</head>
-<body>
 
-	<h2>Welcome to the Psychic Game!!!!!</h2>
-	<p>Choose a letter. If the letter you chose is same as the computer chose you win else you lose. You get 9 guesses.</p>
-	<p>Guess what letter I am thinking of???</p>
-
-	<div id = "score">
-		
-	</div>
-
-	<script type="text/javascript">
 		var arr1 = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
 		
 		var win = 0;
@@ -67,7 +51,3 @@
 		
 
 
-
-	</script>
-</body>
-</html>
